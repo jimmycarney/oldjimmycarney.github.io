@@ -27,5 +27,15 @@ li {
 	border: 1px solid black;
 }
 a{
-	margin-left: 10%;
+	display: block;
+	background-color: white;
+	width: 90px;
+	height: 25px;
+	border: 1px solid black;
+}
+a:hover{
+	background-color: #A9A9A9;
+}
+.links{
+	margin-top: -10%;
 }
