@@ -30,12 +30,14 @@ a{
 	display: block;
 	background-color: white;
 	width: 90px;
-	height: 25px;
+	height: 20px;
 	border: 1px solid black;
+	margin-bottom: 1%;
 }
 a:hover{
 	background-color: #A9A9A9;
 }
 .links{
-	margin-top: -10%;
+	margin-top: -15%;
+	padding-bottom: 5%;
 }
